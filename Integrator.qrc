@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>resources/stpeters_cross.png</file>
+  <file>resources/grace_cross.png</file>
+  <file>resources/rnl_cross.png</file>
+  <file>resources/uffizi_cross.png</file>
+  <file>shaders/shader.vert</file>
+  <file>shaders/shader.frag</file>
+</qresource>
+</RCC>
